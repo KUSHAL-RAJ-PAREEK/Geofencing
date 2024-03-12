@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361014596546",
+    "project_id": "quantum-shard-416916",
+    "storage_bucket": "quantum-shard-416916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361014596546:android:10b0122f263e5b6db57c5b",
+        "android_client_info": {
+          "package_name": "com.krp.geofencing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWUukOhNW8p5UsqZlmzqzoOeWHehf5c0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
